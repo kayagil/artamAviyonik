@@ -1,0 +1,26 @@
+13:36:25 **** Incremental Build of configuration Debug for project spiLora ****
+make -j16 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:356:32: warning: pointer targets in passing argument 1 of 'LoRa_SendMessage' differ in signedness [-Wpointer-sign]
+  356 |               LoRa_SendMessage(dizi);
+      |                                ^~~~
+      |                                |
+      |                                uint8_t * {aka unsigned char *}
+../Core/Src/main.c:222:35: note: expected 'const char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+  222 | void LoRa_SendMessage(const char* message)
+      |                       ~~~~~~~~~~~~^~~~~~~
+arm-none-eabi-gcc -o "spiLora.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="spiLora.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: spiLora.elf
+ 
+arm-none-eabi-size  spiLora.elf 
+arm-none-eabi-objdump -h -S spiLora.elf  > "spiLora.list"
+   text	   data	    bss	    dec	    hex	filename
+  10944	     12	   1660	  12616	   3148	spiLora.elf
+Finished building: default.size.stdout
+ 
+Finished building: spiLora.list
+ 
+
+13:36:26 Build Finished. 0 errors, 1 warnings. (took 755ms)
+
