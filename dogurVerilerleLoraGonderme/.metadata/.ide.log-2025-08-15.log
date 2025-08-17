@@ -1,0 +1,147 @@
+2025-08-15 00:28:43,467 [INFO] WebApp:191 - Connection restablished
+2025-08-15 00:31:46,959 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 490042592 Bytes (1073741824)
+2025-08-15 00:31:47,843 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-15 00:31:47,843 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-15 00:31:47,844 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-15 00:31:47,844 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-15 00:31:47,845 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-15 00:31:47,848 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-08-15 00:31:48,243 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\license.tmp_save
+2025-08-15 00:31:48,613 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\license.tmp
+2025-08-15 00:31:48,698 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\gpio.tmp_save
+2025-08-15 00:31:48,938 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\gpio.tmp
+2025-08-15 00:31:49,054 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_it.c_save
+2025-08-15 00:31:49,432 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_it.c
+2025-08-15 00:31:49,448 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_it.h_save
+2025-08-15 00:31:49,589 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_it.h
+2025-08-15 00:31:49,615 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_hal_msp.c_save
+2025-08-15 00:31:49,867 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_hal_msp.c
+2025-08-15 00:31:49,879 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\system.tmp_save
+2025-08-15 00:31:49,982 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\system.tmp
+2025-08-15 00:31:50,008 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-08-15 00:31:50,242 [INFO] CodeEngine:345 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_hal_conf.h
+2025-08-15 00:31:50,292 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2025-08-15 00:31:50,312 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\main.h_save
+2025-08-15 00:31:50,527 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\main.h
+2025-08-15 00:31:50,538 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\main.c_save
+2025-08-15 00:31:50,685 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\main.c
+2025-08-15 00:31:51,173 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 271mS.
+2025-08-15 00:31:51,179 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-15 00:31:51,285 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2025-08-15 00:31:52,609 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1431mS.
+2025-08-15 00:31:52,611 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-08-15 00:31:52,617 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-15 00:50:43,533 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 644530064 Bytes (1073741824)
+2025-08-15 00:50:45,624 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 720608096 Bytes (1073741824)
+2025-08-15 00:50:45,893 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-15 00:50:45,893 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-15 00:50:45,893 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-15 00:50:45,893 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-15 00:50:45,893 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-15 00:50:45,895 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-08-15 00:50:45,985 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\license.tmp_save
+2025-08-15 00:50:46,121 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\license.tmp
+2025-08-15 00:50:46,154 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\gpio.tmp_save
+2025-08-15 00:50:46,294 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\gpio.tmp
+2025-08-15 00:50:46,374 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_it.c_save
+2025-08-15 00:50:46,566 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_it.c
+2025-08-15 00:50:46,574 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_it.h_save
+2025-08-15 00:50:46,633 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_it.h
+2025-08-15 00:50:46,650 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_hal_msp.c_save
+2025-08-15 00:50:46,786 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_hal_msp.c
+2025-08-15 00:50:46,791 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\system.tmp_save
+2025-08-15 00:50:46,843 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\system.tmp
+2025-08-15 00:50:46,860 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-08-15 00:50:47,009 [INFO] CodeEngine:345 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_hal_conf.h
+2025-08-15 00:50:47,049 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2025-08-15 00:50:47,066 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\main.h_save
+2025-08-15 00:50:47,239 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\main.h
+2025-08-15 00:50:47,247 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\main.c_save
+2025-08-15 00:50:47,375 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\main.c
+2025-08-15 00:50:47,733 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 175mS.
+2025-08-15 00:50:47,737 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-15 00:50:47,803 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2025-08-15 00:50:48,716 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 979mS.
+2025-08-15 00:50:48,717 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-15 00:50:48,721 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-15 02:05:30,866 [INFO] WebApp:194 - Connection lost
+2025-08-15 02:06:05,647 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,485x97,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-15 02:06:57,192 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-15 02:06:57,601 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-08-15 02:07:02,251 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 390664968 Bytes (961544192)
+2025-08-15 02:07:04,258 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 417401608 Bytes (961544192)
+2025-08-15 02:07:06,448 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 500239112 Bytes (961544192)
+2025-08-15 02:07:07,136 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-08-15 02:07:07,137 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-08-15 02:07:07,137 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-08-15 02:07:07,137 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-08-15 02:07:07,137 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-08-15 02:07:07,139 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-08-15 02:07:07,262 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\license.tmp_save
+2025-08-15 02:07:07,711 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\license.tmp
+2025-08-15 02:07:07,801 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\gpio.tmp_save
+2025-08-15 02:07:08,109 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\gpio.tmp
+2025-08-15 02:07:08,294 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_it.c_save
+2025-08-15 02:07:08,771 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_it.c
+2025-08-15 02:07:08,788 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_it.h_save
+2025-08-15 02:07:08,969 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_it.h
+2025-08-15 02:07:08,997 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_hal_msp.c_save
+2025-08-15 02:07:09,314 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\stm32f4xx_hal_msp.c
+2025-08-15 02:07:09,324 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\system.tmp_save
+2025-08-15 02:07:09,468 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\MXTmpFiles\system.tmp
+2025-08-15 02:07:09,503 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-08-15 02:07:09,717 [INFO] CodeEngine:345 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\stm32f4xx_hal_conf.h
+2025-08-15 02:07:09,765 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2025-08-15 02:07:09,786 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\main.h_save
+2025-08-15 02:07:10,016 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Inc\main.h
+2025-08-15 02:07:10,029 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\main.c_save
+2025-08-15 02:07:10,233 [INFO] CodeEngine:289 - Generated code: C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\Core\Src\main.c
+2025-08-15 02:07:10,800 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 328mS.
+2025-08-15 02:07:10,806 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-08-15 02:07:10,929 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2025-08-15 02:07:13,103 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 2297mS.
+2025-08-15 02:07:13,105 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-08-15 02:07:13,110 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-08-15 02:41:03,431 [INFO] WebApp:191 - Connection restablished
+2025-08-15 03:24:18,885 [INFO] WebApp:194 - Connection lost
+2025-08-15 12:34:19,434 [INFO] WebApp:191 - Connection restablished
+2025-08-15 12:59:45,427 [INFO] WebApp:194 - Connection lost
+2025-08-15 14:10:39,422 [INFO] WebApp:191 - Connection restablished
+2025-08-15 14:10:45,765 [INFO] WebApp:194 - Connection lost
+2025-08-15 14:10:45,931 [INFO] WebApp:191 - Connection restablished
+2025-08-15 15:11:01,546 [INFO] WebApp:194 - Connection lost
+2025-08-15 15:20:45,455 [INFO] WebApp:191 - Connection restablished
+2025-08-15 15:22:15,271 [INFO] WebApp:194 - Connection lost
+2025-08-15 15:22:15,522 [INFO] WebApp:191 - Connection restablished
+2025-08-15 15:42:15,840 [INFO] WebApp:194 - Connection lost
+2025-08-15 17:00:57,664 [INFO] WebApp:191 - Connection restablished
+2025-08-15 17:01:00,738 [INFO] WebApp:194 - Connection lost
+2025-08-15 17:01:00,971 [INFO] WebApp:191 - Connection restablished
+2025-08-15 17:01:03,865 [INFO] WebApp:194 - Connection lost
+2025-08-15 17:01:04,025 [INFO] WebApp:191 - Connection restablished
+2025-08-15 17:01:06,975 [INFO] WebApp:194 - Connection lost
+2025-08-15 17:01:07,134 [INFO] WebApp:191 - Connection restablished
+2025-08-15 17:02:51,727 [INFO] WebApp:194 - Connection lost
+2025-08-15 17:02:51,934 [INFO] WebApp:191 - Connection restablished
+2025-08-15 17:04:58,160 [INFO] WebApp:194 - Connection lost
+2025-08-15 17:05:16,814 [INFO] WebApp:191 - Connection restablished
+2025-08-15 17:05:17,990 [INFO] WebApp:194 - Connection lost
+2025-08-15 17:05:18,137 [INFO] WebApp:191 - Connection restablished
+2025-08-15 17:05:20,763 [INFO] WebApp:194 - Connection lost
+2025-08-15 17:05:20,931 [INFO] WebApp:191 - Connection restablished
+2025-08-15 22:32:14,181 [INFO] WebApp:194 - Connection lost
+2025-08-15 22:32:16,118 [INFO] WebApp:191 - Connection restablished
+2025-08-15 22:32:17,759 [INFO] WebApp:194 - Connection lost
+2025-08-15 22:32:17,904 [INFO] WebApp:191 - Connection restablished
+2025-08-15 22:32:20,882 [INFO] WebApp:194 - Connection lost
+2025-08-15 22:32:21,026 [INFO] WebApp:191 - Connection restablished
+2025-08-15 22:32:23,944 [INFO] WebApp:194 - Connection lost
+2025-08-15 22:32:24,085 [INFO] WebApp:191 - Connection restablished
+2025-08-15 22:34:09,234 [INFO] WebApp:194 - Connection lost
+2025-08-15 22:34:09,381 [INFO] WebApp:191 - Connection restablished
+2025-08-15 23:43:02,855 [INFO] WebApp:194 - Connection lost
+2025-08-15 23:47:11,975 [INFO] WebApp:191 - Connection restablished
+2025-08-15 23:47:12,325 [INFO] WebApp:194 - Connection lost
+2025-08-15 23:47:12,363 [INFO] WebApp:191 - Connection restablished
+2025-08-15 23:47:15,546 [INFO] WebApp:194 - Connection lost
+2025-08-15 23:47:15,721 [INFO] WebApp:191 - Connection restablished
