@@ -1,0 +1,10 @@
+13:28:27 **** Incremental Build of configuration Debug for project spiLora ****
+make -j16 all 
+arm-none-eabi-size  spiLora.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10936	     12	   1660	  12608	   3140	spiLora.elf
+Finished building: default.size.stdout
+ 
+
+13:28:27 Build Finished. 0 errors, 0 warnings. (took 247ms)
+
