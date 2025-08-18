@@ -60,8 +60,8 @@ all: main-build
 main-build: spiLora.elf secondary-outputs
 
 # Tool invocations
-spiLora.elf spiLora.map: $(OBJS) $(USER_OBJS) C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\STM32F446RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "spiLora.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\nmkay\OneDrive\Masaüstü\kendikendime\spiLora\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="spiLora.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+spiLora.elf spiLora.map: $(OBJS) $(USER_OBJS) C:\Users\nmkay\artam\artamAviyonik\loraInterrupt\spiLora\STM32F446RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "spiLora.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\nmkay\artam\artamAviyonik\loraInterrupt\spiLora\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="spiLora.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

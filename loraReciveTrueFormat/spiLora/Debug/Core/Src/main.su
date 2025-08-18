@@ -1,0 +1,13 @@
+../Core/Src/main.c:167:6:RFM98_Reset	8	static
+../Core/Src/main.c:178:6:RFM98_Write	24	static
+../Core/Src/main.c:204:9:RFM98_Read	24	static
+../Core/Src/main.c:236:9:LoRa_Init	8	static
+../Core/Src/main.c:299:6:LoRa_ReceiveMode	8	static
+../Core/Src/main.c:313:6:LoRa_ReadPacket	32	static
+../Core/Src/main.c:346:5:main	32	static
+../Core/Src/main.c:430:6:SystemClock_Config	88	static
+../Core/Src/main.c:485:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:523:13:MX_USART6_UART_Init	8	static
+../Core/Src/main.c:556:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:611:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:636:6:Error_Handler	4	static,ignoring_inline_asm
